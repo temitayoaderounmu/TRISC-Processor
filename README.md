@@ -90,7 +90,7 @@ After loading the program into the TRISC RAM loader, various instructions were e
 <p align="center">
   <img src="./images/results.png"/>
 </p>  
-<p align="center"><b>Figure 2: Simulation Results of TRISC Processor</b></p>  
+<p align="center"><b>Figure 2: Results of the TRISC Processor on the DE10-Lite board</b></p>  
 
 ---
 
